@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/Input/IA_MoveUpDown.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/Input/IA_MoveLeftRight.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/Input/IA_LookUpDown.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/Input/IA_TurnLeftRight.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/Input/IA_RollLeftRight.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/Input/IA_SpaceBrake.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/Input/IA_MoveForwardBackward.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/Input/IMC_Default.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/user/Documents/Unreal Projects/Project_Spaceman/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
